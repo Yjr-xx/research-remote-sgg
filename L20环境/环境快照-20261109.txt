@@ -1,0 +1,28 @@
+记录时间: Mon Nov  9 06:11:15 PM UTC 2026
+主机: user  用户: yjr  家目录: /home/yjr
+
+=== 显卡 ===
+index, name, memory.total [MiB], driver_version
+0, NVIDIA L20, 46068 MiB, 595.91.07
+1, NVIDIA L20, 46068 MiB, 595.91.07
+2, NVIDIA L20, 46068 MiB, 595.91.07
+
+=== torch ===
+torch 2.5.1+cu121
+cuda True
+devices 3
+
+=== CUDA 工具包 ===
+cuda
+cuda-11.7
+cuda-12
+cuda-12.2
+cuda-12.4
+cuda-12.6
+cuda-12.8
+cuda_12.8.0_570.86.10_linux.run
+
+=== 磁盘 ===
+/dev/sdb1       7.0T  3.9T  2.8T  60% /home
+/dev/sda1       9.1T  6.6T  2.1T  77% /data
+/dev/sde1       5.5T   36K  5.5T   1% /data2
